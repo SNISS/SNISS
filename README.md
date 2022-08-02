@@ -15,3 +15,11 @@
 
 
 [![Amolo Hunter](https://avatars.githubusercontent.com/u/106687805?s=64&v=4)](https://amoloht.github.io/)
+<br>
+
+
+### Especialidades
+
+<br>
+
+Segurança da Informação Red Team com foco em pentest web,mobile e Interno. Faço bug bounty na plataforma da intigriti
