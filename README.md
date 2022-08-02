@@ -18,8 +18,14 @@
 <br>
 <br>
 
-### Especialidades
-
-<br>
-
-Segurança da Informação Red Team com foco em pentest web,mobile e Interno. Faço bug bounty na plataforma da intigriti
+<h2>  Informações Sobre Mim</h2>
+<blockquote>
+  <ul>
+    <li>Estudo segurança da informação Red Team</li>
+    <br>
+    <li>Foco Em Pentest Web,Mobile, em Infraestuturas e Interno </li>
+    <br>
+    <li>Bug Hunter na Intigriti nas horas vagas</li>
+    
+    </blockquote>
+  </ul>
