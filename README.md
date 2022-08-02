@@ -27,5 +27,5 @@
     <br>
     <li>Bug Hunter na Intigriti nas horas vagas</li>
     
-    </blockquote>
+   
   </ul>
