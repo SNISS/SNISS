@@ -26,6 +26,7 @@
     <li>Foco Em Pentest Web,Mobile, em Infraestuturas e Interno </li>
     <br>
     <li>Bug Hunter na Intigriti nas horas vagas</li>
+    <li>CTF Player no Tryhackme TOP 4%</li>
     
    
   </ul>
