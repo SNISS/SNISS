@@ -8,7 +8,7 @@
 
 ![SNISS GitHub stats](https://github-readme-stats.vercel.app/api?username=SNISS&show_icons=true&theme=radical)
 
-![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNISS&layout=compact&langs_count=7&theme=radical")
+![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNISS&layout=compact&langs_count=7&theme=cobaltl")
 
 
 
