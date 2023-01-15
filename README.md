@@ -6,7 +6,7 @@
 
 
 
-![SNISS GitHub stats](https://github-readme-stats.vercel.app/api?username=SNISS&show_icons=true&theme=radical)
+[![SNISS GitHub stats](https://github-readme-stats.vercel.app/api?username=SNISS)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNISS&layout=compact&langs_count=7&theme=cobalt")
 
