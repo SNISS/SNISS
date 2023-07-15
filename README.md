@@ -12,12 +12,7 @@
 
 
 
-### Organizações que eu participo
 
-
-[![Amolo Hunter](https://avatars.githubusercontent.com/u/106687805?s=64&v=4)](https://amoloht.github.io/)
-<br>
-<br>
 
 <h2>  Informações Sobre Mim</h2>
 <blockquote>
